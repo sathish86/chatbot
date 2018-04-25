@@ -6,4 +6,5 @@ To run this app locally, you'll need Python, and Redis. Redis from Homebrew (`br
 Then, to run:
 
 - Install requirements: `pip install -r requirements.txt` (you almost certainly want to do this in a virtualenv).
-- python migrate runserver
+- python manage.py migrate
+- python manage.py runserver
