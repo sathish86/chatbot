@@ -1,0 +1,9 @@
+.cache/
+.coverage
+.tox/
+htmlcov/
+staticfiles/
+venv/
+*.pyc
+__pycache__/
+*.sql
